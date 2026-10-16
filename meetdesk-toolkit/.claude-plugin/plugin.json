@@ -1,0 +1,6 @@
+{
+  "name": "meetdesk-toolkit",
+  "description": "Verification skill, scheduling reviewer, guard hooks and a team-directory MCP server for Python scheduling apps",
+  "version": "0.1.0",
+  "author": { "name": "Your Name" }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "yourname-tools",
+  "description": "My Claude Code plugins for Python projects",
+  "owner": { "name": "Your Name" },
+  "plugins": [
+    {
+      "name": "meetdesk-toolkit",
+      "source": "./meetdesk-toolkit",
+      "description": "MeetDesk verification and guardrails"
+    }
+  ]
+}
